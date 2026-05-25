@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224240019
+# Name: ASTLE JOE A S
+# Date: 25/05/2026
 
 
 # AIM:
@@ -29,6 +29,10 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+<img width="735" height="746" alt="444153613-82fb974c-4d7a-4d44-9c9b-709f2bcf34cf" src="https://github.com/user-attachments/assets/97242773-e3ac-4c1e-928a-925ce30847ff" />
+
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -38,10 +42,6 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-
-
-
-
 
 
 
@@ -58,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="570" height="383" alt="444153682-5f090b17-90f5-48b6-9275-c8abc514a611" src="https://github.com/user-attachments/assets/9194c12a-c25c-46d4-b60c-234621daa6f3" />
 
 
 
@@ -98,6 +99,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="294" height="666" alt="444154001-ef4cdcd2-8c55-415f-a5cc-7f7dd1eae624" src="https://github.com/user-attachments/assets/6abfbc6f-bd89-4e01-989b-f1577ef50738" />
 
 
 
@@ -118,6 +120,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="583" height="587" alt="444154047-94964107-58de-4f68-8b02-593bc52f48b5" src="https://github.com/user-attachments/assets/dc2adb72-16fa-4a00-bc84-3e62c9157559" />
 
 
 
